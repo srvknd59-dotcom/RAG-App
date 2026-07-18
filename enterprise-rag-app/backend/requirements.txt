@@ -1,0 +1,9 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+elasticsearch==8.19.1
+openai>=1.30
+pydantic-settings>=2.2
+python-dotenv
+python-multipart
+pypdf[image]
+pdfplumber
