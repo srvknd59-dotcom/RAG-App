@@ -116,11 +116,3 @@ cd enterprise-rag-app\frontend
 
 Then open http://localhost:5173, click **Sync documents**, and start
 asking questions.
-
-## Learning resources
-
-- [`enterprise-rag-app/ONE_DAY_PLAN.md`](./enterprise-rag-app/ONE_DAY_PLAN.md) —
-  a guided, day-by-day walkthrough for understanding, running, and
-  extending the app.
-- [`enterprise-rag-app/TRAINER_GUIDE.md`](./enterprise-rag-app/TRAINER_GUIDE.md) —
-  how to prepare and run a training session for someone else.
